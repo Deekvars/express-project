@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "title": "Ugaoo Krish Self Watering Planter -7.5 inch (Set of 5)",
+      "id": 1,
+      "price": 100,
+      "discounted_price": 80,
+      "image": ["//cdn.shopify.com/s/files/1/0579/7924/0580/products/7.5-inch-set-of-5-multi-1_1.png","https://cdn.shopify.com/s/files/1/0579/7924/0580/products/calatheaburle_45_360x.png?v=1661439774","https://cdn.shopify.com/s/files/1/0576/0391/5966/products/ag03-2_360x.jpg?v=1659931173"],
+      "handle": ""
+    },
+    {
+      "title": "Calathea Prayer Plant  - Medium",
+      "id": 123,
+      "price": 699,
+      "discounted_price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0579/7924/0580/products/calatheaburle_45_360x.png?v=1661439774",
+      "handle": "calathea-prayer-plant-medium"
+    },
+    {
+      "title": "Calathea Pinstripe Plant",
+      "id": 145,
+      "price": 899,
+      "discounted_price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0579/7924/0580/products/calatheaornatapinstripe_45_1_360x.png?v=1661328536",
+      "handle": "calathea-pinstripe-plant"
+    },
+    {
+      "title": "Calathea Orbifolia - Medium",
+      "id": 128,
+      "price": 999,
+      "discounted_price": 899,
+      "image": ["https://cdn.shopify.com/s/files/1/0579/7924/0580/products/calatheaorbifolianew_45_360x.png?v=1661439769","https://cdn.shopify.com/s/files/1/0579/7924/0580/products/aloft_planter_1_360x.png?v=1661441290"],
+      "handle": "calathea-orbifolia-medium"
+    },
+    {
+      "title": "Aloft planter",
+      "id": 2,
+      "price": 999,
+      "discounted_price": 999,
+      "image": ["https://cdn.shopify.com/s/files/1/0579/7924/0580/products/aloft_planter_1_360x.png?v=1661441290","https://cdn.shopify.com/s/files/1/0579/7924/0580/products/calatheaorbifolianew_45_360x.png?v=1661439769"],
+      "handle": "aloft-planter"
+    },
+    {
+      "title": "Areca Palm Plant - Big",
+      "id": 3,
+      "price": 899,
+      "discounted_price": 899,
+      "image": "https://cdn.shopify.com/s/files/1/0579/7924/0580/products/areca_45_360x.png?v=1661439729",
+      "handle": "areca-palm-plant-big"
+    }
+  ]
+}
